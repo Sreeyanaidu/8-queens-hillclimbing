@@ -1,5 +1,5 @@
 # 8_queens_problem
-8-queens problem using the hill climbing algorithm
+8-queens problem using the hill climbing algorithm from russell
 
 # HILL CLIMBING ALGORITHM:
 
