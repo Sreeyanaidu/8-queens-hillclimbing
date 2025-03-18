@@ -35,7 +35,7 @@ We worked together on the main part of the project, the hill climbing function. 
 We quickly noticed that hill climbing often got stuck in local optima. This was an important realization: hill climbing excels at local search, but without random restarts, it can easily settle on suboptimal solutions.
 
 # OUTPUT:
+![image-1](https://github.com/user-attachments/assets/12d50cf4-2a81-4ee5-9b47-acb1fffb3a0f)
 
-![alt text](image-1.png)
 
-![alt text](image.png)
+![image-2](https://github.com/user-attachments/assets/3c7f8a66-ddc5-45bc-be19-a193be93d854)
